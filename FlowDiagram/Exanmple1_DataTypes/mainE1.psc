@@ -1,4 +1,4 @@
-Proceso main
+Proceso mainE1
 	Definir number1 Como Entero;
 	Definir number2 Como Real;
 	Definir mystery Como Logico;
